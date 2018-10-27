@@ -1,0 +1,22 @@
+
+{
+    "url": "$url_to_register",
+    "product_info": {
+        "id": 1,
+        "title": "product_title",
+        "subtitle": "product_subtitle",
+        "inventory": "product_inventory",
+        "options": ["available", "options"],
+        "price": "product_price_in_number",
+        "image": ["image", "links"]
+    },
+    "register_info": {
+        "date": "2018-10-26 14:15:00 kst",
+        "userinfo": {
+            "user_name": "humphrey ahn",
+            "user_username": "ahnsv",
+            "user_email": "ahnsv@bc.edu"
+        },
+        "register_id": "abc123"
+    }
+}
